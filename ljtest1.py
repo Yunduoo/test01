@@ -11,3 +11,8 @@
 
 print('哈哈'+'嘻嘻')
 print('哈哈'*100)
+print('哈哈'+'嘻嘻')
+print('哈哈'*100)
+
+
+print ('wujiali')
